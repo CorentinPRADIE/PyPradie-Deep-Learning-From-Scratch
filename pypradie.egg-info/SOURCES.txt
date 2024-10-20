@@ -1,0 +1,7 @@
+README.md
+setup.py
+pypradie.egg-info/PKG-INFO
+pypradie.egg-info/SOURCES.txt
+pypradie.egg-info/dependency_links.txt
+pypradie.egg-info/requires.txt
+pypradie.egg-info/top_level.txt
